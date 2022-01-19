@@ -26,8 +26,7 @@ https://user-images.githubusercontent.com/89473605/150140051-e6da4b60-3200-4420-
 # Installation 
  First clone this project.
  ```c
-https://github.com/Gunesix/kodluyoruz-odev-part2.git
- ```
+https://github.com/meycasim/instagramclone.git ```
 
  # Usage
  After the cloning open with Visual Studio Code.
